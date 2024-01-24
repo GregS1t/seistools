@@ -1,0 +1,12 @@
+# .Gitignore file 
+
+.DS_Store
+Icon*
+.ipynb_checkpoints/
+.dropbox
+._*
+configuration/SEIS-activity_synthesis*
+*/__pycache__/*
+*.pyc
+exportASPIC/
+archives
