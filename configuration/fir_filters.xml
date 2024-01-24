@@ -1,0 +1,30 @@
+<fir>
+	<fir_2>
+		<name>FIR 2</name>
+		<type>2</type>
+		<gain>1</gain>
+		<decim>2</decim>
+		<filename>./FIR_Filters/FIR_AA_DIV2_PFOS_RFG_01.resp</filename>
+	</fir_2>
+	<fir_2G4>
+		<name>FIR 2 Gain 4</name>
+		<type>2</type>
+		<gain>4</gain>
+		<decim>2</decim>
+		<filename>./FIR_Filters/FIR_AA_DIV2_GA04_RFG_01.txt</filename>
+	</fir_2G4>
+	<fir_4>
+		<name>FIR 4</name>
+		<type>4</type>
+		<gain>1</gain>
+		<decim>4</decim>
+		<filename>./FIR_Filters/FIR_AA_DIV4_PFOS_RFG_01.txt</filename>
+	</fir_4>	
+	<fir_5>
+		<name>FIR 5</name>
+		<type>5</type>
+		<gain>1</gain>
+		<decim>5</decim>
+		<filename>./FIR_Filters/FIR_AA_DIV5_PFOS_RFG_01.txt</filename>
+	</fir_5>	
+</fir>

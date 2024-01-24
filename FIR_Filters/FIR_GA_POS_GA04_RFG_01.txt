@@ -1,0 +1,15 @@
+#                  +-----------------------------------+ 
+#                  |         FIR Response              | 
+#                  |         GAIN ONLY                 | 
+#                  |         FIR Gain 4                | 
+#                  +-----------------------------------+ 
+# 
+B061F03     Stage sequence number:                 3 
+B061F04     Response Name:                         FIR_GAIN_ONLY_GAIN4_____
+B061F05     Symmetry Code:                         A 
+B061F06     Response in units lookup:              COUNTS - Digital Counts 
+B061F07     Response out units lookup:             COUNTS - Digital Counts 
+B061F08     Number of Coefficients:                 1 
+#              i   FIR Coefficient 
+B061F09      0    +4.0000000e+00
+# 

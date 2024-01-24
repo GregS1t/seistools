@@ -1,0 +1,23 @@
+<channellist>
+	<channel>
+		<network>XB</network>
+		<station>ELYSE</station>
+		<location>02</location>
+		<channel>BHU</channel>
+		<sps>20</sps>
+	</channel>
+	<channel>
+		<network>XB</network>
+		<station>ELYSE</station>
+		<location>02</location>
+		<channel>BHV</channel>
+		<sps>20</sps>
+	</channel>
+	<channel>
+		<network>XB</network>
+		<station>ELYSE</station>
+		<location>02</location>
+		<channel>BHW</channel>
+		<sps>20</sps>
+	</channel>
+</channellist>

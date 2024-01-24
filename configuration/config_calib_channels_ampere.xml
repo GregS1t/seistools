@@ -1,0 +1,72 @@
+<calibampere>
+	<calibration>
+		<location>08</location>
+		<channel>LEA,UEA</channel>
+		<expression>0.001518230532679</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>06</location>
+		<channel>LEA,UEA</channel>
+		<expression>-0.0007549067048548806</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>21</location>
+		<channel>LEA,UEA</channel>
+		<expression>0.02291403250767964</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>29</location>
+		<channel>LEA,UEA</channel>
+		<expression>-0.0029126547275007617</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>36</location>
+		<channel>LEA,UEA</channel>
+		<expression>0.01610544557325723</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>38</location>
+		<channel>LEA,UEA</channel>
+		<expression>0.009522195284989782</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>41</location>
+		<channel>LEV,UEV</channel>
+		<expression>0.000095291034399139</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>45</location>
+		<channel>LEA,UEA</channel>
+		<expression>0.0031526904745240543</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>46</location>
+		<channel>LEA,UEA</channel>
+		<expression>-0.01712768690588336</expression>
+		<unit>mA</unit>
+	</calibration>
+
+	<calibration>
+		<location>48</location>
+		<channel>LEA,UEA</channel>
+		<expression>0.01712768690588336</expression>
+		<unit>mA</unit>
+	</calibration>
+
+</calibampere>
